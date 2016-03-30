@@ -1,0 +1,16 @@
+.container {
+  width: 400px;
+  border: 3px solid red;
+  padding: 0px 10px;
+  margin: 125px auto;
+}
+
+
+footer {
+  width: 400px;
+  border: 3px solid red;
+  padding: 0px 10px;
+  margin: 125px auto;
+}
+
+p {font-size: 16px}

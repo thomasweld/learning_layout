@@ -1,16 +1,21 @@
 .container {
-  width: 400px;
-  border: 3px solid red;
-  padding: 0px 10px;
-  margin: 125px auto;
+  width: 500px;
+  margin: 50px auto;
+  background: lightgray;
+  overflow: hidden;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin-right: 5px;
+  margin-top: 5px;
+  float: left;
 }
 
 
-footer {
-  width: 400px;
-  border: 3px solid red;
-  padding: 0px 10px;
-  margin: 125px auto;
-}
 
-p {font-size: 16px}
+.box3 {
+  /*clear: both;*/
+}
